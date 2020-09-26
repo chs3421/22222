@@ -1,4 +1,4 @@
-        # 해달 2주차 과제 _ 김민지
+# 해달 2주차 과제 _ 김민지
 ## 아이돌 그룹 '크래비티' 소개
 ![로고](https://ww.namu.la/s/4fac41a4ea7e7956eab6c1dd5d16b3aab88134fca6046ec53044361cce2576f8e813be464f8078228cf4fef57e08958314ed95060d3300053010900759ed85ce9e73b3ae3a57bf0c8fbc887b420cd6bf0dfa4e5bc43aeeaa7321353963a66aa8)  
 ### CRAVITY
